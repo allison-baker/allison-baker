@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @allison-baker
-- 🌱 I’m currently studying web design at Utah Valley University
+- 👩‍🎓 I’m currently studying web design at Utah Valley University
 - 📫 You can reach me at my university email address 10986582@uvu.edu
+- 👩‍💻 Follow me on Twitter @al_baker_web
 
 <!---
 allison-baker/allison-baker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
