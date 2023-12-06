@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allison-baker
-- 👩‍🎓 I’m currently studying web design at Utah Valley University
+- 👩‍🎓 I’m currently studying Web and App Development at Utah Valley University
 - 📫 You can reach me at my university email address 10986582@uvu.edu
 - 👩‍💻 Follow me on Twitter @al_baker_web
 
